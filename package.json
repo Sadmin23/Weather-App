@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Sadmin23/Weather-App#readme",
   "dependencies": {
+    "body-parser": "^1.20.1",
     "express": "^4.18.2"
   }
 }
